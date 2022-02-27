@@ -1,6 +1,6 @@
 ### Python Programming for Water Resources Engineering and Research
 
-![rhone](https://github.com/Ecohydraulics/media/raw/master/jpg/hydraulics-1d.jpg)
+![rhone](https://github.com/Ecohydraulics/media/raw/main/jpg/hydraulics-1d.jpg)
 *<sub>The Rhone River in Switzerland (source: Sebastian Schwindt 2014).</sub>*
 
 ***
